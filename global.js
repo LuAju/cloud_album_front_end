@@ -1,5 +1,5 @@
 
-const webUrl = "http://192.168.233.1:8083"
+const webUrl = "http://192.168.10.4:8083"
 
 export default {
 	webUrl
