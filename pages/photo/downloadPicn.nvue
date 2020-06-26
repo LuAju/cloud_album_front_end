@@ -1,0 +1,15 @@
+<template>
+	<div>
+		<image src="http://localhost:8083/pic/dec36a7e-39f5-42e7-8f0e-c39a0c2b2940.jpg"></image>
+	</div>
+</template>
+
+<script>
+	export default {
+		
+	}
+</script>
+
+<style>
+
+</style>
